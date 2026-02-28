@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привет, я Александр! 👋
 
-<!--
-**AJLbN0H/AJLbN0H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Бэкенд-разработчик на Python, специализирующийся на Django и асинхронных системах.
 
-Here are some ideas to get you started:
+## Мой технический стек:
+* **Backend:** Python (Django / DRF / FastAPI)
+* **Databases:** PostgreSQL / Redis
+* **Async Tasks:** Celery / Celery Beat
+* **DevOps & Tools:** Docker / Docker-compose / Git / Poetry / Pytest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мои ключевые проекты:
+* **MailFlow Pro** — Автоматизация рассылок (Django, Celery, Redis).
+* **LMS API Master** — Архитектура образовательных платформ (DRF, JWT, Swagger).
+* **Atomic Habits** — Трекер привычек с планировщиком (Celery Beat).
+* **Finance Aggregator** — Аналитика данных (Pandas, API ЦБ РФ).
+* **Job Parser Pro** — Парсинг вакансий с покрытием тестами 88% (Pytest).
+
+## Контакты:
+* **Telegram:** [@r8redmaer](https://t.me/r8redmaer)
+* **Email:** [Твой Email, если хочешь]
