@@ -1,20 +1,25 @@
 # Привет, я Александр! 👋
 
-Бэкенд-разработчик на Python, специализирующийся на Django и асинхронных системах.
+Python Backend Developer | Django & DRF Specialist | Building scalable systems with Celery & Redis.
 
-## Мой технический стек:
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/r8redmaer)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:твой-email@example.com)
+
+## 🛠 Мой технический стек:
 * **Backend:** Python (Django / DRF / FastAPI)
 * **Databases:** PostgreSQL / Redis
 * **Async Tasks:** Celery / Celery Beat
 * **DevOps & Tools:** Docker / Docker-compose / Git / Poetry / Pytest
 
-## Мои ключевые проекты:
-* **MailFlow Pro** — Автоматизация рассылок (Django, Celery, Redis).
-* **LMS API Master** — Архитектура образовательных платформ (DRF, JWT, Swagger).
-* **Atomic Habits** — Трекер привычек с планировщиком (Celery Beat).
-* **Finance Aggregator** — Аналитика данных (Pandas, API ЦБ РФ).
-* **Job Parser Pro** — Парсинг вакансий с покрытием тестами 88% (Pytest).
+## 🚀 Мои ключевые проекты:
+* **MailFlow Pro** — Автоматизация рассылок.
+* **LMS API Master** — Архитектура образовательных платформ.
+* **Atomic Habits** — Трекер привычек с планировщиком.
+* **Finance Aggregator** — Аналитика данных.
+* **Job Parser Pro** — Парсинг вакансий (88% coverage).
 
-## Контакты:
-* **Telegram:** [@r8redmaer](https://t.me/r8redmaer)
-* **Email:** sashavagin1987@gmail.com
+## 📊 Моя статистика:
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=AJLbN0H&show_icons=true&theme=radical" alt="Alexander's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJLbN0H&layout=compact&theme=radical" alt="Top Langs" />
+</p>
