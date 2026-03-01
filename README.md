@@ -17,4 +17,4 @@
 
 ## Контакты:
 * **Telegram:** [@r8redmaer](https://t.me/r8redmaer)
-* **Email:** [Твой Email, если хочешь]
+* **Email:** sashavagin1987@gmail.com
