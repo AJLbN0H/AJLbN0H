@@ -20,6 +20,6 @@ Python Backend Developer | Django & DRF Specialist | Building scalable systems w
 
 ## 📊 Моя статистика:
 <p align="left">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AJLbN0H&show_icons=true&theme=radical" alt="Alexander's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=AJLbN0H&show_icons=true&theme=radical&hide=stars,issues,contribs" />
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AJLbN0H&layout=compact&theme=radical" alt="Top Langs" />
 </p>
