@@ -6,7 +6,7 @@ Python Backend Developer | Django & DRF Specialist | Building scalable systems w
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:твой-email@example.com)
 
 ## 🛠 Technical Stack
-* **Backend:** Python (Django / DRF / FastAPI)
+* **Backend:** Python (Django / DRF)
 * **Databases:** PostgreSQL / Redis
 * **Async Tasks:** Celery / Celery Beat
 * **DevOps & Tools:** Docker / Docker-compose / Git / Poetry / Pytest
